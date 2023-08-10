@@ -1,2 +1,2 @@
-**goimdb**
-Project from course Mastering Fundamental Golang : Building RESTAPI Project.
+**#goimdb**
+Project from course Mastering Fundamental Golang: Building RESTAPI Project. (future skill)
