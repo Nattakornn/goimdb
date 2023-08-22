@@ -3,5 +3,8 @@ Project from course Mastering Fundamental Golang: Building RESTAPI Project. (fut
 
 ## Installation
 ```sh
+  go mod tidy
+```
+```sh
   go run main.go
 ```
